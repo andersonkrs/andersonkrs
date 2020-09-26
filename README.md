@@ -8,5 +8,6 @@ My interests are:
 - Games :video_game:
 - Animes :japanese_castle:
 - Books :books:
+- Pets :cat: :dog:
 
 [LinkedIn](https://www.linkedin.com/in/anderson-macedo-15b81790/)
