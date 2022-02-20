@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Anderson Macedo. I'm a software engineer from Sorocaba, Brazil and I'm currently working remotely to @monde-sistemas.
+My name is Anderson Macedo. I'm a software engineer from Sorocaba, Brazil and I'm currently working remotely.
 
 My interests are:
 - Software Engineering in general :technologist:
