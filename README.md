@@ -4,10 +4,11 @@ My name is Anderson Macedo. I'm a software engineer from Sorocaba, Brazil and I'
 
 My interests are:
 - Software Engineering in general :technologist:
-- Ruby :gem:, Elixir :heart: and JavaScript
+- Ruby ♦️ Javascript 👾
+- Martial Arts 🥋 🙇‍♂️
+- Science 🧑‍🔬
+- Books :books:
 - Games :video_game:
 - Animes :japanese_castle:
-- Books :books:
-- Pets :cat: :dog:
 
 [LinkedIn](https://www.linkedin.com/in/anderson-macedo-15b81790/)
